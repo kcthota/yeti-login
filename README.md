@@ -1,5 +1,7 @@
 # Yeti Login
+#### Built with [Google AI Studio](https://aistudio.google.com/) + Gemini 3 Pro in less than 1 hr
 
+## Local Setup
 1. Install dependencies:
    `npm install`
 2. Run the app:
