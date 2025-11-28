@@ -1,0 +1,5 @@
+{
+  "name": "Yeti Login",
+  "description": "A delightful login page featuring an interactive character that tracks your username typing and covers its eyes when you enter your password.",
+  "requestFramePermissions": []
+}
